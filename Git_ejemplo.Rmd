@@ -16,3 +16,9 @@ A <- pi * r^2
 A
 ```
 
+## Cálculo del área de un círculo 2 
+```{r}
+r <- 4
+A <- pi * r^2
+A
+```
